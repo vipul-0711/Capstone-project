@@ -1,3 +1,8 @@
 This project is a simple command-line file explorer written in C++. It allows users to interact with the file system by listing files and directories, navigating between directories, creating and deleting files or directories, copying and moving files, searching for files, and changing file permissions. The program operates through a menu interface, making it easy to perform these tasks using typed commands.
 
 It is designed for users to manage files and directories without a graphical interface, using standard C++17 filesystem features enhanced with system calls like chmod for permissions. It works in a loop, continuously taking input from the user until they choose to exit.
+
+
+output
+
+![image alt](https://github.com/vipul-0711/Capstone-project/blob/b89badc0c9afb36adbc628b29dc6bdf6f0547105/wipro1.png)
